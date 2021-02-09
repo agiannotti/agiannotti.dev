@@ -1,0 +1,22 @@
+.header {
+  font-size: 1.1rem;
+  letter-spacing: 0.1rem;
+  margin: 0;
+  padding: 1.3rem;
+  padding-bottom: 0.5rem;
+  line-height: 3.4rem;
+}
+
+.header h1 {
+  margin: 0;
+  padding: 1rem;
+}
+
+.header p {
+  margin: 0;
+  padding: 1rem;
+  font-size: 0.7rem;
+  color: rgb(156, 151, 151);
+  letter-spacing: 0.06rem;
+  line-height: normal;
+}

@@ -1,0 +1,41 @@
+.header-bar {
+  margin: 0;
+  padding: 1rem;
+  padding-top: 0;
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+}
+
+.header-bar p {
+  margin: 0;
+  padding: 0.5rem;
+}
+
+.face-img {
+  height: 120px;
+  margin: 0 25px 0 10px;
+  padding: 0.8rem;
+}
+
+.header-links {
+  margin: 0;
+  margin-top: 55px;
+  padding: 5px;
+  height: 30px;
+}
+
+.launch-img {
+  height: 12px;
+  padding: 4px;
+}
+
+.git-img {
+  height: 14px;
+  padding-right: 5px;
+}
+
+.linkedin-img {
+  height: 14px;
+  padding-right: 5px;
+}

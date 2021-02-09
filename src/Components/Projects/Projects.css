@@ -1,0 +1,25 @@
+.project-container {
+  letter-spacing: 0.1rem;
+  margin: 0;
+  padding: 1.5rem;
+  padding-top: 0;
+}
+
+.project-section {
+  /* background-color: gray; */
+  background-color: rgb(64, 64, 70);
+  height: 120px;
+  letter-spacing: 0.1rem;
+  margin: 0;
+  margin-bottom: 12px;
+  padding: 1.5rem;
+}
+
+.project-container h2 {
+  margin: 0;
+  padding: 12px;
+}
+
+.project-section h3 {
+  font-size: 8px;
+}
