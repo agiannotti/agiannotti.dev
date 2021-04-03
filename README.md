@@ -1,6 +1,6 @@
 # Portfolio
 
-[Live Deployment](agiannotti.dev)
+[Live Deployment]agiannotti.dev
 
 ## Summary
 
